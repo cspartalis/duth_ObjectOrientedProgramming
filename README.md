@@ -4,6 +4,6 @@
 * Project 2 is about Classes
 * Project 3 is about a more advanced approach to Classes
 
-The code is in C++.
+The code is in C++.\n
 The project description is in Greek.
 Professor: Avi Arampatzis
