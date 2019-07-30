@@ -1,2 +1,9 @@
-# object_oriented_programming_duth_projects
-My projects for the class of "Object-oriented programming" in Democritus University of Thrace
+# My projects on "Object-Oriented programming" in DuTh
+
+* Project 1 is about Structs
+* Project 2 is about Classes
+* Project 3 is about a more advanced approach to Classes
+
+The code is in C++.
+The project description is in Greek.
+Professor: Avi Arampatzis
