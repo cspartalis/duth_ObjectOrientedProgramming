@@ -1,4 +1,4 @@
-# My projects on "Object-Oriented programming" in DuTh
+# My projects on "Object-Oriented programming" at DuTh
 
 * Project 1 is about Structs
 * Project 2 is about Classes
